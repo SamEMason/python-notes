@@ -1,0 +1,44 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+.Python
+
+# VS Code settings
+.vscode/
+.code-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS + system files
+.DS_Store
+Thumbs.db
+
+# Pipenv / Poetry
+pipfile.lock
+poetry.lock
+
+# MyPy / Pyright / Pytest cache
+.mypy_cache/
+.pytest_cache/
+.pyright/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Black, isort, etc.
+.cac
